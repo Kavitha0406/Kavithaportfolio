@@ -63,7 +63,8 @@ const TEST_SUITE = [
   { type: "pass",   text: "✓ Git & GitHub workflow .......... PASS" },
   { type: "pass",   text: "✓ Manual test case design ........ PASS" },
   { type: "pass",   text: "✓ Selenium WebDriver .............  PASS" },
-  { type: "muted",  text: "6 passed, 0 failed — 0.42s" },
+  { type: "pass",   text: "✓ TestNG ......................... PASS" },
+  { type: "muted",  text: "7 passed, 0 failed — 0.42s" },
   { type: "prompt", text: "status: available for hire ✓" },
 ];
 
